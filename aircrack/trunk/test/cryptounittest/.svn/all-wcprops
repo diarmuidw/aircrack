@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2170/trunk/test/cryptounittest
+END
+test-calc-pmk.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2170/trunk/test/cryptounittest/test-calc-pmk.c
+END
+test-calc-mic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2170/trunk/test/cryptounittest/test-calc-mic.c
+END
+test-decrypt-ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2170/trunk/test/cryptounittest/test-decrypt-ccmp.c
+END
+tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2170/trunk/test/cryptounittest/tests.h
+END
+test-calc-4pmk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2170/trunk/test/cryptounittest/test-calc-4pmk.c
+END
+test-encrypt-wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2170/trunk/test/cryptounittest/test-encrypt-wep.c
+END
+test-calc-ptk.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2170/trunk/test/cryptounittest/test-calc-ptk.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2170/trunk/test/cryptounittest/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2170/trunk/test/cryptounittest/README
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/2210/trunk
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2204/trunk/common.mak
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/938/trunk/LICENSE
+END
+INSTALLING
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2204/trunk/INSTALLING
+END
+LICENSE.OpenSSL
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/938/trunk/LICENSE.OpenSSL
+END
+evalrev
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1171/trunk/evalrev
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/938/trunk/AUTHORS
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1692/trunk/VERSION
+END
+patchchk
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/938/trunk/patchchk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1691/trunk/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2171/trunk/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2170/trunk/Makefile
+END

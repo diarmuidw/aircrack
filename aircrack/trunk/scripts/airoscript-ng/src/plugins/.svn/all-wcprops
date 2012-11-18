@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2198/branch/airoscript-ng/src/plugins
+END
+johntheripper
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1953/branch/airoscript-ng/src/plugins/johntheripper
+END
+hydra_logins
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1967/branch/airoscript-ng/src/plugins/hydra_logins
+END
+zenity
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2198/branch/airoscript-ng/src/plugins/zenity
+END
+sslstrip
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1953/branch/airoscript-ng/src/plugins/sslstrip
+END
+mouse_support
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2195/branch/airoscript-ng/src/plugins/mouse_support
+END
+tcpdstat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1988/branch/airoscript-ng/src/plugins/tcpdstat
+END
+debug
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2175/branch/airoscript-ng/src/plugins/debug
+END
+arpspoof
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1953/branch/airoscript-ng/src/plugins/arpspoof
+END
+tmux
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2198/branch/airoscript-ng/src/plugins/tmux
+END
+mdk3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2165/branch/airoscript-ng/src/plugins/mdk3
+END
+delay
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2173/branch/airoscript-ng/src/plugins/delay
+END
+digenpy
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2165/branch/airoscript-ng/src/plugins/digenpy
+END
+xterm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2198/branch/airoscript-ng/src/plugins/xterm
+END
+iptables
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1961/branch/airoscript-ng/src/plugins/iptables
+END
+wkhtmltopdf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1961/branch/airoscript-ng/src/plugins/wkhtmltopdf
+END
+reload
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2180/branch/airoscript-ng/src/plugins/reload
+END
+pyrit
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2132/branch/airoscript-ng/src/plugins/pyrit
+END
+hydra
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1968/branch/airoscript-ng/src/plugins/hydra
+END
+dsniff
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1953/branch/airoscript-ng/src/plugins/dsniff
+END
+hydra_passwords
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1967/branch/airoscript-ng/src/plugins/hydra_passwords
+END
+yad
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2165/branch/airoscript-ng/src/plugins/yad
+END

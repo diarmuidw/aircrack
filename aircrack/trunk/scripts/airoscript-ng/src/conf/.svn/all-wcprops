@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2198/branch/airoscript-ng/src/conf
+END
+screenrc.airoscript
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2158/branch/airoscript-ng/src/conf/screenrc.airoscript
+END
+airoscript-ng.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2158/branch/airoscript-ng/src/conf/airoscript-ng.conf
+END
+airoscript-ng_advanced.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2198/branch/airoscript-ng/src/conf/airoscript-ng_advanced.conf
+END
+airoscript-ng_debug.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2158/branch/airoscript-ng/src/conf/airoscript-ng_debug.conf
+END
